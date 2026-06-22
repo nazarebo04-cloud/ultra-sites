@@ -1,0 +1,80 @@
+{
+  "client_name": "Impulso Digital",
+  "niche": "agencia",
+  "business_desc": "Agencia de marketing digital especializada en ayudar a pymes tecnológicas a aumentar su presencia en línea y alcanzar sus objetivos de negocio",
+  "tagline": "Impulsando el crecimiento digital de tu empresa",
+  "offer": "Servicios de marketing digital personalizados para pymes tecnológicas",
+  "contact_email": "info@impulsodigital.es",
+  "contact_phone": "912 345 678",
+  "website_url": "https://www.impulsodigital.es",
+  "features": [
+    "Estrategias de marketing digital personalizadas",
+    "Desarrollo de sitios web responsivos y seguros",
+    "Campañas de publicidad en redes sociales y buscadores",
+    "Optimización de motores de búsqueda (SEO) y analítica web",
+    "Asesoramiento en marketing de contenidos y creación de contenido de calidad"
+  ],
+  "testimonials": [
+    {
+      "name": "Juan Pérez",
+      "role": "Director de Marketing en TechCorp",
+      "text": "Impulso Digital nos ha ayudado a aumentar nuestra presencia en línea y a generar leads de calidad. Su equipo es profesional y siempre disponible para resolver nuestras necesidades"
+    },
+    {
+      "name": "María Rodríguez",
+      "role": "Fundadora de StartupLab",
+      "text": "La agencia ha sido fundamental para el lanzamiento de nuestro producto. Su estrategia de marketing digital nos ha permitido alcanzar a nuestro público objetivo de manera efectiva"
+    },
+    {
+      "name": "Pedro García",
+      "role": "Director de Ventas en SoftTech",
+      "text": "Impulso Digital ha mejorado significativamente nuestra posición en los buscadores y ha aumentado nuestro tráfico web. Su equipo es experto y siempre busca la mejor solución para nuestros desafíos"
+    },
+    {
+      "name": "Sofía López",
+      "role": "Gerente de Comunicación en TechFutura",
+      "text": "La agencia ha sido un socio valioso para nuestra empresa. Su enfoque en la creación de contenido de calidad y su conocimiento de las últimas tendencias en marketing digital han sido fundamentales para nuestro éxito"
+    }
+  ],
+  "pricing": [
+    {
+      "name": "Paquete Básico",
+      "price": "990€",
+      "period": "/mes",
+      "features": [
+        "Estrategias de marketing digital personalizadas",
+        "Desarrollo de sitios web responsivos y seguros",
+        "Campañas de publicidad en redes sociales y buscadores"
+      ],
+      "highlight": false
+    },
+    {
+      "name": "Paquete Avanzado",
+      "price": "1.990€",
+      "period": "/mes",
+      "features": [
+        "Estrategias de marketing digital personalizadas",
+        "Desarrollo de sitios web responsivos y seguros",
+        "Campañas de publicidad en redes sociales y buscadores",
+        "Optimización de motores de búsqueda (SEO) y analítica web",
+        "Asesoramiento en marketing de contenidos y creación de contenido de calidad"
+      ],
+      "highlight": true
+    },
+    {
+      "name": "Paquete Empresarial",
+      "price": "3.990€",
+      "period": "/mes",
+      "features": [
+        "Estrategias de marketing digital personalizadas",
+        "Desarrollo de sitios web responsivos y seguros",
+        "Campañas de publicidad en redes sociales y buscadores",
+        "Optimización de motores de búsqueda (SEO) y analítica web",
+        "Asesoramiento en marketing de contenidos y creación de contenido de calidad",
+        "Acceso a herramientas de marketing digital avanzadas"
+      ],
+      "highlight": false
+    }
+  ],
+  "lang": "es"
+}
