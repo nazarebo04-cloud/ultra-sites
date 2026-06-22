@@ -1,0 +1,26 @@
+{
+  "web_id": "ba38a6ee-5ff",
+  "schema_version": "1.0",
+  "generated_at": "2026-06-22T20:52:59.898607+00:00",
+  "generator": "ULTRA Web Generator v1.0",
+  "niche": "saas_b2b",
+  "niche_label": "SaaS B2B",
+  "client_name": "",
+  "sections": [
+    "hero",
+    "features",
+    "social_proof",
+    "pricing",
+    "faq",
+    "cta_bottom"
+  ],
+  "palette": {
+    "primary": "#2563EB",
+    "accent": "#7C3AED",
+    "dark": "#0F172A",
+    "light": "#F8FAFC"
+  },
+  "prompt_payload": {
+    "test": true
+  }
+}
