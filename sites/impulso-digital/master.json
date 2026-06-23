@@ -1,80 +1,74 @@
 {
-  "client_name": "Impulso Digital",
-  "niche": "agencia",
-  "business_desc": "Agencia de marketing digital especializada en ayudar a pymes tecnológicas a aumentar su presencia en línea y alcanzar sus objetivos de negocio",
-  "tagline": "Impulsando el crecimiento digital de tu empresa",
-  "offer": "Servicios de marketing digital personalizados para pymes tecnológicas",
-  "contact_email": "info@impulsodigital.es",
-  "contact_phone": "912 345 678",
-  "website_url": "https://www.impulsodigital.es",
-  "features": [
-    "Estrategias de marketing digital personalizadas",
-    "Desarrollo de sitios web responsivos y seguros",
-    "Campañas de publicidad en redes sociales y buscadores",
-    "Optimización de motores de búsqueda (SEO) y analítica web",
-    "Asesoramiento en marketing de contenidos y creación de contenido de calidad"
-  ],
-  "testimonials": [
+  "nombre": "Impulso Digital",
+  "descripcion": "Empresa de marketing digital y tecnología para empresas B2B",
+  "servicios": [
     {
-      "name": "Juan Pérez",
-      "role": "Director de Marketing en TechCorp",
-      "text": "Impulso Digital nos ha ayudado a aumentar nuestra presencia en línea y a generar leads de calidad. Su equipo es profesional y siempre disponible para resolver nuestras necesidades"
+      "nombre": "Desarrollo Web",
+      "descripcion": "Creación de sitios web personalizados y responsivos",
+      "caracteristicas": [
+        "Diseño personalizado",
+        "Desarrollo de aplicaciones web",
+        "Integración con redes sociales"
+      ]
     },
     {
-      "name": "María Rodríguez",
-      "role": "Fundadora de StartupLab",
-      "text": "La agencia ha sido fundamental para el lanzamiento de nuestro producto. Su estrategia de marketing digital nos ha permitido alcanzar a nuestro público objetivo de manera efectiva"
+      "nombre": "Marketing Digital",
+      "descripcion": "Estrategias de marketing digital para aumentar la visibilidad y el tráfico",
+      "caracteristicas": [
+        "Análisis de mercado",
+        "Creación de contenido",
+        "Publicidad en redes sociales"
+      ]
     },
     {
-      "name": "Pedro García",
-      "role": "Director de Ventas en SoftTech",
-      "text": "Impulso Digital ha mejorado significativamente nuestra posición en los buscadores y ha aumentado nuestro tráfico web. Su equipo es experto y siempre busca la mejor solución para nuestros desafíos"
-    },
-    {
-      "name": "Sofía López",
-      "role": "Gerente de Comunicación en TechFutura",
-      "text": "La agencia ha sido un socio valioso para nuestra empresa. Su enfoque en la creación de contenido de calidad y su conocimiento de las últimas tendencias en marketing digital han sido fundamentales para nuestro éxito"
+      "nombre": "Tecnología",
+      "descripcion": "Soluciones tecnológicas para empresas",
+      "caracteristicas": [
+        "Desarrollo de software",
+        "Implementación de sistemas de gestión",
+        "Soporte técnico"
+      ]
     }
   ],
-  "pricing": [
+  "proyectos": [
     {
-      "name": "Paquete Básico",
-      "price": "990€",
-      "period": "/mes",
-      "features": [
-        "Estrategias de marketing digital personalizadas",
-        "Desarrollo de sitios web responsivos y seguros",
-        "Campañas de publicidad en redes sociales y buscadores"
-      ],
-      "highlight": false
+      "nombre": "Sitio web para una empresa de logística",
+      "descripcion": "Desarrollo de un sitio web personalizado para una empresa de logística",
+      "imagenes": [
+        "imagen1.jpg",
+        "imagen2.jpg"
+      ]
     },
     {
-      "name": "Paquete Avanzado",
-      "price": "1.990€",
-      "period": "/mes",
-      "features": [
-        "Estrategias de marketing digital personalizadas",
-        "Desarrollo de sitios web responsivos y seguros",
-        "Campañas de publicidad en redes sociales y buscadores",
-        "Optimización de motores de búsqueda (SEO) y analítica web",
-        "Asesoramiento en marketing de contenidos y creación de contenido de calidad"
-      ],
-      "highlight": true
-    },
-    {
-      "name": "Paquete Empresarial",
-      "price": "3.990€",
-      "period": "/mes",
-      "features": [
-        "Estrategias de marketing digital personalizadas",
-        "Desarrollo de sitios web responsivos y seguros",
-        "Campañas de publicidad en redes sociales y buscadores",
-        "Optimización de motores de búsqueda (SEO) y analítica web",
-        "Asesoramiento en marketing de contenidos y creación de contenido de calidad",
-        "Acceso a herramientas de marketing digital avanzadas"
-      ],
-      "highlight": false
+      "nombre": "Campaña de marketing digital para una empresa de tecnología",
+      "descripcion": "Creación de una campaña de marketing digital para una empresa de tecnología",
+      "imagenes": [
+        "imagen3.jpg",
+        "imagen4.jpg"
+      ]
     }
   ],
-  "lang": "es"
+  "equipo": [
+    {
+      "nombre": "Juan Pérez",
+      "cargo": "Director General",
+      "descripcion": "Director general de Impulso Digital",
+      "imagen": "juan-perez.jpg"
+    },
+    {
+      "nombre": "María Rodríguez",
+      "cargo": "Directora de Marketing",
+      "descripcion": "Directora de marketing de Impulso Digital",
+      "imagen": "maria-rodriguez.jpg"
+    }
+  ],
+  "contacto": {
+    "direccion": "Calle 123, Ciudad, País",
+    "telefono": "+1234567890",
+    "correo": "info@impulsodigital.com",
+    "redesSociales": [
+      "https://www.facebook.com/impulsodigital",
+      "https://www.twitter.com/impulsodigital"
+    ]
+  }
 }

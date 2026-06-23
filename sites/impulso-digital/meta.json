@@ -1,0 +1,97 @@
+{
+  "web_id": "5d173f65-1bc",
+  "schema_version": "1.0",
+  "generated_at": "2026-06-22T20:54:57.044340+00:00",
+  "generator": "ULTRA Web Generator v1.0",
+  "niche": "saas_b2b",
+  "niche_label": "SaaS B2B",
+  "client_name": "",
+  "sections": [
+    "hero",
+    "features",
+    "social_proof",
+    "pricing",
+    "faq",
+    "cta_bottom"
+  ],
+  "palette": {
+    "primary": "#2563EB",
+    "accent": "#7C3AED",
+    "dark": "#0F172A",
+    "light": "#F8FAFC"
+  },
+  "prompt_payload": {
+    "nombre": "Impulso Digital",
+    "descripcion": "Empresa de marketing digital y tecnología para empresas B2B",
+    "servicios": [
+      {
+        "nombre": "Desarrollo Web",
+        "descripcion": "Creación de sitios web personalizados y responsivos",
+        "caracteristicas": [
+          "Diseño personalizado",
+          "Desarrollo de aplicaciones web",
+          "Integración con redes sociales"
+        ]
+      },
+      {
+        "nombre": "Marketing Digital",
+        "descripcion": "Estrategias de marketing digital para aumentar la visibilidad y el tráfico",
+        "caracteristicas": [
+          "Análisis de mercado",
+          "Creación de contenido",
+          "Publicidad en redes sociales"
+        ]
+      },
+      {
+        "nombre": "Tecnología",
+        "descripcion": "Soluciones tecnológicas para empresas",
+        "caracteristicas": [
+          "Desarrollo de software",
+          "Implementación de sistemas de gestión",
+          "Soporte técnico"
+        ]
+      }
+    ],
+    "proyectos": [
+      {
+        "nombre": "Sitio web para una empresa de logística",
+        "descripcion": "Desarrollo de un sitio web personalizado para una empresa de logística",
+        "imagenes": [
+          "imagen1.jpg",
+          "imagen2.jpg"
+        ]
+      },
+      {
+        "nombre": "Campaña de marketing digital para una empresa de tecnología",
+        "descripcion": "Creación de una campaña de marketing digital para una empresa de tecnología",
+        "imagenes": [
+          "imagen3.jpg",
+          "imagen4.jpg"
+        ]
+      }
+    ],
+    "equipo": [
+      {
+        "nombre": "Juan Pérez",
+        "cargo": "Director General",
+        "descripcion": "Director general de Impulso Digital",
+        "imagen": "juan-perez.jpg"
+      },
+      {
+        "nombre": "María Rodríguez",
+        "cargo": "Directora de Marketing",
+        "descripcion": "Directora de marketing de Impulso Digital",
+        "imagen": "maria-rodriguez.jpg"
+      }
+    ],
+    "contacto": {
+      "direccion": "Calle 123, Ciudad, País",
+      "telefono": "+1234567890",
+      "correo": "info@impulsodigital.com",
+      "redesSociales": [
+        "https://www.facebook.com/impulsodigital",
+        "https://www.twitter.com/impulsodigital"
+      ]
+    }
+  }
+}
