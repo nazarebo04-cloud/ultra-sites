@@ -1,0 +1,121 @@
+{
+  "web_id": "af88bb47-d71",
+  "schema_version": "1.0",
+  "generated_at": "2026-06-23T13:11:00.896474+00:00",
+  "generator": "ULTRA Web Generator v1.0",
+  "niche": "saas_b2b",
+  "niche_label": "SaaS B2B",
+  "client_name": "",
+  "sections": [
+    "hero",
+    "features",
+    "social_proof",
+    "pricing",
+    "faq",
+    "cta_bottom"
+  ],
+  "palette": {
+    "primary": "#2563EB",
+    "accent": "#7C3AED",
+    "dark": "#0F172A",
+    "light": "#F8FAFC"
+  },
+  "prompt_payload": {
+    "empresa": {
+      "nombre": "Emjambre Corp",
+      "descripcion": "Soluciones tecnológicas innovadoras para empresas",
+      "logo": "https://example.com/emjambre-logo.png",
+      "direccion": "Calle Ejemplo 123, Ciudad, País",
+      "telefono": "+56 2 12345678",
+      "email": "info@emjambre.com"
+    },
+    "servicios": [
+      {
+        "nombre": "Desarrollo de Software",
+        "descripcion": "Creación de soluciones personalizadas para empresas",
+        "imagen": "https://example.com/desarrollo-software.png",
+        "caracteristicas": [
+          "Desarrollo de aplicaciones web y móviles",
+          "Integración con sistemas existentes",
+          "Diseño de interfaces de usuario"
+        ]
+      },
+      {
+        "nombre": "Consultoría en Tecnología",
+        "descripcion": "Asesoramiento experto para la implementación de tecnologías",
+        "imagen": "https://example.com/consultoria-tecnologia.png",
+        "caracteristicas": [
+          "Análisis de necesidades y requerimientos",
+          "Recomendaciones de soluciones tecnológicas",
+          "Implementación y capacitación"
+        ]
+      },
+      {
+        "nombre": "Seguridad Informática",
+        "descripcion": "Protección de la información y sistemas de empresas",
+        "imagen": "https://example.com/seguridad-informatica.png",
+        "caracteristicas": [
+          "Análisis de vulnerabilidades y riesgos",
+          "Implementación de medidas de seguridad",
+          "Monitoreo y respuesta a incidentes"
+        ]
+      }
+    ],
+    "portafolio": [
+      {
+        "nombre": "Proyecto Ejemplo 1",
+        "descripcion": "Desarrollo de una aplicación web para una empresa de comercio electrónico",
+        "imagen": "https://example.com/proyecto-ejemplo-1.png",
+        "tecnologias": [
+          "HTML5",
+          "CSS3",
+          "JavaScript"
+        ]
+      },
+      {
+        "nombre": "Proyecto Ejemplo 2",
+        "descripcion": "Implementación de un sistema de gestión de inventarios para una empresa de manufactura",
+        "imagen": "https://example.com/proyecto-ejemplo-2.png",
+        "tecnologias": [
+          "Python",
+          "Django",
+          "MySQL"
+        ]
+      }
+    ],
+    "equipo": [
+      {
+        "nombre": "Juan Pérez",
+        "cargo": "Director Ejecutivo",
+        "descripcion": "Líder con más de 10 años de experiencia en el sector tecnológico",
+        "imagen": "https://example.com/juan-perez.png"
+      },
+      {
+        "nombre": "María Rodríguez",
+        "cargo": "Gerente de Desarrollo",
+        "descripcion": "Ingeniera en informática con especialización en desarrollo de software",
+        "imagen": "https://example.com/maria-rodriguez.png"
+      }
+    ],
+    "noticias": [
+      {
+        "titulo": "Emjambre Corp lanza nuevo servicio de consultoría en tecnología",
+        "descripcion": "La empresa busca ayudar a las empresas a implementar tecnologías de manera efectiva",
+        "fecha": "2022-01-01",
+        "imagen": "https://example.com/noticia-1.png"
+      },
+      {
+        "titulo": "Emjambre Corp participa en la feria de tecnología más importante del país",
+        "descripcion": "La empresa mostrará sus productos y servicios en la feria",
+        "fecha": "2022-02-01",
+        "imagen": "https://example.com/noticia-2.png"
+      }
+    ],
+    "contacto": {
+      "formulario": "https://example.com/formulario-de-contacto",
+      "direccion": "Calle Ejemplo 123, Ciudad, País",
+      "telefono": "+56 2 12345678",
+      "email": "info@emjambre.com"
+    }
+  }
+}
