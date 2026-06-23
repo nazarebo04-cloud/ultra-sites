@@ -1,12 +1,12 @@
 /* ═══════════════════════════════════════════
-   ULTRA Generated JS — Impulso Digital
+   ULTRA Generated JS — Tu Empresa
    ═══════════════════════════════════════════ */
 'use strict';
 
 // ── Config (editable por ULTRA o por agentes) ──────────────────────────
 const ULTRA_CONFIG = {
-  clientName:  "Impulso Digital",
-  niche:       "Agencia Digital",
+  clientName:  "Tu Empresa",
+  niche:       "SaaS B2B",
   chatApiUrl:  null,  // Reemplazar con endpoint real: "/api/chat"
   contactUrl:  null,  // Reemplazar con endpoint real: "/api/contact"
 };
